@@ -18,10 +18,10 @@ They are evolving and adaptive electronic creatures used for learning and for fu
 A .zeed lives inside of a terminal as a file that is capable of running and altering its own code, growing and adapting to the new data that its presented with.  
 The .zeed extension is an entire protocol of standards consisting of a handful of administrator chosen constants and constraints, and an infinite number of user created variables.  
 
-.zeed files are given out to the community in bundles and updates can be submitted by users to be included in future .zeed standards.  
+.zeed files are given out to the community in bundles and updates can be submitted by users to be included in future standards.  
 Users may also create their own .zeed entirely from scratch using a premade template and some content and code of their choosing.  
 The process is streamlined to be as user friendly as possible while still remaining very low level.  
-Users may disregard standards entirely and create their own homebrew standards for use among friends or in thier own tournaments and experiments.  
+Users may disregard standards entirely and create their own homebrew standards for use among friends or in their own tournaments and experiments.  
 They may also tweak their own .zeed and release them in any way they see fit, including via our community channels.  
 
 A .zeed is fed by using an algorithm to extract raw data from any file or input that you give them. 
