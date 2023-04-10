@@ -16,7 +16,7 @@ INITIAL_X=$((GRID_WIDTH / 2))
 INITIAL_Y=$((GRID_HEIGHT - 1))
 
 # Random seed for shuffling
-RANDOM_SEED=12345
+RANDOM_SEED=00001
 
 # Initialize the grid
 grid=()
@@ -25,7 +25,7 @@ for ((i = 0; i < GRID_HEIGHT; i++)); do
 done
 
 # Function to display the grid
-display_grid() {
+draw_grid() {
   # Check if the grid exceeds the screen size
   if ((GRID_HEIGHT > SCREEN_HEIGHT || GRID_WIDTH > SCREEN_WIDTH)); then
     local compressed_grid=()
