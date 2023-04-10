@@ -4,7 +4,7 @@
 an extention to [//GRID](https://github.com/Az-Neter/AzNet-GRID)
 
 IN-PROGRESS  
-Reference MASTER repository for development information (Private to [Az:Net members](https://github.com/Az-Net/Az-Net))  
+Reference MASTER repository for development information.
   
     
 ## [Design Document]  
