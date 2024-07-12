@@ -1,3 +1,6 @@
+# [Final Project Link (This Repository is Closed)](https://github.com/Az-Net/hexmon/blob/main/README.md)
+
+
 # AzNet-ZEED
 ~Az:Net//ZEED Project - (Pronounced 'Seed') - A custom AI designed by Az Neter and in development by [Az:Net](https://github.com/Az-Net)  
 
